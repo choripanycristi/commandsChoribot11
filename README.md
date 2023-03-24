@@ -25,3 +25,4 @@ Aquí puedes ver todos los comandos que tiene choribot11
 
 !song // Ver las canciones que escucho normalmente (cancer)
 
+!pregunta // Puedes preguntarle lo que se te antoje al bot y él va a responder aleatoriamente
